@@ -1,0 +1,16 @@
+*{
+    margin: 0;
+    font-family: Hulu;
+}
+
+@font-face {
+    font-family: 'Hulu';
+    /* src: url(./fonts/futura\ extra\ black\ condensed\ bt.ttf); */
+    src: url(./fonts/FE11004T.ttf);
+    /* src: url(./fonts/Futura\ Maxi\ CG\ Demi.otf); */
+    /* src: url(./fonts/FUTURAB.TTF); */
+    /* font-weight: 200;
+    font-size: 10px; */
+   
+
+}
